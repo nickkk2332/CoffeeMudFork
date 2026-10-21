@@ -25,6 +25,7 @@ Files in this directory:
 
 Windows:
 mud.bat           : set JAVA_HOME, and execute this to run coffeemud in windows
+solo.bat          : execute this to play coffeemud alone in this console window (logs in solo.log)
 make.bat          : set JAVA_HOME, and execute this to build coffeemud in windows
 build.xml         : ANT build file for coffeemud binaries
 coffee.ico        : Windows icon file for shortcuts
@@ -32,6 +33,7 @@ upgrade.bat       : set JAVA_HOME, and execute this to upgrade coffeemud in wind
 
 Linux:
 mud.sh            : Executing coffeemud. (See installation guide)
+solo.sh           : Playing coffeemud alone in this terminal window (logs in solo.log)
 config.sh         : Configuring mud.sh (See installation guide)
 Makefile          : Building coffeemud. (See installation guide)
 build.xml         : ANT build file for coffeemud binaries
